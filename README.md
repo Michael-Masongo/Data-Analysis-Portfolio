@@ -8,7 +8,7 @@ Feel free to explore the projects, and thank you for checking out my portfolio! 
 
 ## Projects
 
-### 1. [Sales Performance Dashboard](Sales Performance Dashboard/)
+### 1. [Sales Performance Dashboard](Sales_Performance_Dashboard/)
    - **Description**: A comprehensive dashboard visualizing Superstore sales trends across different regions in the United States between 2014 and 2017.
    - **Tools Used**: Power BI, Data Visualization.
    - **Key Insights**: Identification of underperforming regions and seasonal sales patterns.
