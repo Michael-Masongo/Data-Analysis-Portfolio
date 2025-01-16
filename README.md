@@ -17,6 +17,6 @@ Feel free to explore the projects, and thank you for checking out my portfolio! 
    - **Description**: A detailed analysis and visualization of hotel revenue trends, parking lot utilization, and operational insights from 2018 to 2020.
    - **Tools Used**: Microsoft SQL Server Management Studio, Power BI, Data Visualization.
    - **Key Insights**:
-     i. **Revenue Growth:** Identified trends in yearly revenue by hotel type, including  significant fluctuations.
-     ii. **Parking Lot Utilization:** Evaluated the relationship between revenue and parking demand to determine the necessity for parking lot expansion.
-     iii. **Data Trends:** Highlighted seasonal patterns and peak revenue months.
+     1. **Revenue Growth:** Identified trends in yearly revenue by hotel type, including  significant fluctuations.
+     2. **Parking Lot Utilization:** Evaluated the relationship between revenue and parking demand to determine the necessity for parking lot expansion.
+     3. **Data Trends:** Highlighted seasonal patterns and peak revenue months.
