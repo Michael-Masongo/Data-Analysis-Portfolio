@@ -26,6 +26,5 @@ Feel free to explore the projects, and thank you for checking out my portfolio! 
    - **Tools Used**: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Scikit-learn (KMeans Clustering).
    - **Key Insights**:
      1. **Customer Segmentation:** Identified five distinct customer segments using K-Means clustering, categorized by income level and spending habits.
-     2. **Business Targeting Strategy:** High spenders with mid-to-high income were isolated as ideal targets for premium marketing campaigns.
-     3. **Gender Distribution:** The majority of customers across clusters were female, suggesting marketing strategies should prioritize female consumers to increase engagement and sales effectiveness.
+     2. **Business Targeting Strategy:** High spenders with mid-to-high income were isolated as ideal targets for premium marketing campaigns. The majority of customers across clusters were female, suggesting marketing strategies should prioritize female consumers to increase engagement and sales effectiveness.
      4. **Visual Analysis:** Data visualization techniques like scatter plots and elbow method graphs effectively illustrated the clustering process and optimal number of clusters.
