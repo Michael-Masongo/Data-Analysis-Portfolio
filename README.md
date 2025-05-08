@@ -20,3 +20,5 @@ Feel free to explore the projects, and thank you for checking out my portfolio! 
      1. **Revenue Growth:** Identified trends in yearly revenue by hotel type, including  significant fluctuations.
      2. **Parking Lot Utilization:** Evaluated the relationship between revenue and parking demand to determine the necessity for parking lot expansion.
      3. **Data Trends:** Highlighted seasonal patterns and peak revenue months.
+
+### 3. [Customer Segmentation & Clustering](Shopping_Mall_Customer_Clustering/)
