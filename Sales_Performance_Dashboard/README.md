@@ -17,5 +17,5 @@ This project presents a comprehensive analysis and visualization of Superstore s
 
 ## 💡 Key Insights
 
-- **Underperforming Regions:** The analysis revealed specific regions with consistently low sales, highlighting areas for focused marketing or operational improvements.  
+- **Underperforming Regions:** The analysis revealed specific regions with consistently low sales, highlighting areas for focused marketing or operational improvements.
 - **Seasonal Sales Trends:** Identified recurring sales peaks during key months and holiday seasons, offering opportunities for promotion planning.
