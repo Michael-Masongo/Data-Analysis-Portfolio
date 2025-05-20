@@ -1,4 +1,4 @@
-# 📊📈 Data-Analysis-Portfolio
+# 📊 Data-Analysis-Portfolio
 
 Welcome to my Data Analysis Portfolio! 😊 
 
